@@ -1,2 +1,2 @@
 # Semantic-HTML-refactor
-concert div elements to proper semantic html
+convert div elements to proper semantic html
